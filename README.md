@@ -12,5 +12,5 @@
   <br>
   <a href="sahaistanbul.csv">Görüntüle</a>
   ·
-  <a href="https://raw.githubusercontent.com/ahmetcadirci25/sahaistanbul/main/sahaistanbul.csv" download="download">İndir</a>
+  <a href="https://raw.githubusercontent.com/ahmetcadirci25/sahaistanbul/main/sahaistanbul.csv">İndir</a>
 </p>
