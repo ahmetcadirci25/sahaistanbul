@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.sahaistanbul.org.tr/">
-    <img src="logo.png" alt="Bootstrap logo" width="200">
+    <img src="logo.png" alt="Saha İstanbul Logo" width="200">
   </a>
 </p>
 
